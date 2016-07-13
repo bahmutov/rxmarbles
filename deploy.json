@@ -5,9 +5,9 @@
     },
     "src": [
       "index.html",
-      "./dist/css",
-      "./dist/js",
-      "./dist/img"
+      "dist/css/*",
+      "dist/js/*",
+      "dist/img/*"
     ]
   }
 }
